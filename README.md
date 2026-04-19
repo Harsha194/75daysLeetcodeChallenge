@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
