@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1306-jump-game-iii](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/1306-jump-game-iii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
