@@ -1,9 +1,13 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        l=0
-        for i in range(len(nums)):
-            if nums[i]!=0:
-                nums[l],nums[i]=nums[i],nums[l]
-                l+=1
+        res=[]
+        zer=[]
+        for x in nums:
+            if x!=0:
+                res.append(x)
+        zer=[0]*(len(nums)-len(res))
+        nums[:]=res+zer
         return nums
+
+       
         
