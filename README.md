@@ -51,9 +51,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1306-jump-game-iii](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/1306-jump-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Harsha194/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
